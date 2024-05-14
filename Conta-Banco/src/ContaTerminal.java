@@ -9,7 +9,7 @@ public class ContaTerminal {
         
             Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
             
-            String NomeCliente = "Divania Martins";
+            String NomeCliente = "MARIO ANDRADE";
             double saldo = 237.48;        
             
             System.out.println("Por favor, digite o número da Agência!");
